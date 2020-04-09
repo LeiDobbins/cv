@@ -1,0 +1,26 @@
+body {
+  background-color: #f9f8eb;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 6%;
+  border-width: 10px;
+  border-color: grey;
+}
+
+h1 {
+  color: #5c8d89;
+  font-variant-caps: all-small-caps;
+}
+
+h3 {
+  color: #5c8d89;
+  font-variant-caps: all-small-caps;
+}
+
+body {
+  font-variant: small-caps;
+  font-weight: 400;
+  font-family: cursive;
+}
